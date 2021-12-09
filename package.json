@@ -1,5 +1,5 @@
 {
-  "name": "@marcusbaer/personal-digital-assistant",
+  "name": "personal-digital-assistant",
   "version": "0.0.1",
   "description": "Personal Digital Assistant",
   "bin": {
