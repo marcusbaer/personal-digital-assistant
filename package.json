@@ -1,0 +1,28 @@
+{
+  "name": "personal-digital-assistant",
+  "version": "0.0.1",
+  "description": "Personal Digital Assistant",
+  "bin": {
+    "pda": "./pda.js"
+  },
+  "scripts": {
+    "pda": "./pda.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusbaer/personal-digital-assistant.git"
+  },
+  "keywords": [
+    "pda",
+    "assistant",
+    "lists",
+    "notes",
+    "reminder"
+  ],
+  "author": "Marcus Baer <info@baer-media.com>",
+  "bugs": {
+    "url": "https://github.com/marcusbaer/personal-digital-assistant/issues"
+  },
+  "homepage": "https://github.com/marcusbaer/personal-digital-assistant#readme"
+}
