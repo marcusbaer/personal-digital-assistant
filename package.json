@@ -1,6 +1,6 @@
 {
   "name": "personal-digital-assistant",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Personal Digital Assistant",
   "bin": {
     "pda": "./pda.js"
